@@ -1,0 +1,5 @@
+{
+  "name": "Maomao Kuaichuan (P2P Transfer)",
+  "description": "Cross-device P2P file transfer application using WebRTC and PeerJS.",
+  "requestFramePermissions": []
+}
